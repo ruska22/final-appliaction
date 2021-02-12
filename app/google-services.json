@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "643659350165",
+    "project_id": "registration-792a4",
+    "storage_bucket": "registration-792a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643659350165:android:f5a74be07e6e9894a95b9c",
+        "android_client_info": {
+          "package_name": "com.example.finalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643659350165-flalg5k655sdscolcgk7au5fd10cgs0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwYrEkLGdZLbYcfwMWHapegwDSo-GPyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643659350165-flalg5k655sdscolcgk7au5fd10cgs0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643659350165:android:b110b437bbc48e48a95b9c",
+        "android_client_info": {
+          "package_name": "com.example.horoscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643659350165-flalg5k655sdscolcgk7au5fd10cgs0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwYrEkLGdZLbYcfwMWHapegwDSo-GPyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643659350165-flalg5k655sdscolcgk7au5fd10cgs0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">final application</string>
+    <string name="RegTitle">Registration</string>
+    <string name="EmailHint">Email</string>
+    <string name="passwordHint">password</string>
+    <string name="RegButton">register</string>
+    <string name="LogInButton">Log In</string>
+    <string name="LoginTitle">Authorization</string>
+    <string name="LogButton">Log In</string>
+    <string name="Back">Go back</string>
+    <string name="andazebi">ანდაზები</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="applicationName">provibe application</string>
+
+
+</resources>
